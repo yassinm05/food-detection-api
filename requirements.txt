@@ -3,3 +3,9 @@ uvicorn
 python-multipart
 pydantic
 google-generativeai
+torch
+torchvision
+ultralytics
+numpy
+Pillow
+opencv-python-headless
